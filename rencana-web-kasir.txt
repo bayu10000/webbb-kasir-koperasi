@@ -1,0 +1,10 @@
+RENCANA WEB KASIR
+
+- membuat menu utama
+  * Visi : Menjadi Toko Yang Jujur
+    Misi : Sejahtara Dunia Akhirat
+  * Profil : Berdiri Sejak 2020
+  * Alamat : Karangsari
+- membuat menu login
+- membuat menu sign-up
+- membuat daftar harga barang
